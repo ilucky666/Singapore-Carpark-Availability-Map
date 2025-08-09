@@ -1,4 +1,4 @@
-# 🚗 新加坡停车场一张图 - GitHub Projects 使用说明
+# 🚗 新加坡停车场一张图 - README
  
 项目目标是基于 LTA CarparkAvailability API 构建一个 **实时、交互式的停车位可视化地图**。
 
