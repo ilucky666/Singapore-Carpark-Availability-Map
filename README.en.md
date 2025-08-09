@@ -81,6 +81,7 @@ LTA DataMall: CarParkAvailability API
 <img width="2556" height="1200" src="https://github.com/user-attachments/assets/aad3abfe-85d8-4c84-ab5b-f57d3321f2c2" /> 
 <img width="748" height="1010" src="https://github.com/user-attachments/assets/e7fbcd16-507d-4836-a01f-853ceae15670" />
 <img width="749" height="672" src="https://github.com/user-attachments/assets/22f5ebb7-c35f-450f-921f-7a455348ccfe" />
+
 ## 📄 License
 This project is licensed under the MIT License.
 
