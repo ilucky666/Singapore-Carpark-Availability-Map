@@ -33,12 +33,14 @@
 - **数据来源**：LTA DataMall - CarParkAvailability API
 
 ## 📂 项目结构
+```
 project/
 ├── backend/ # 数据获取与入库脚本
 ├── db/ # 数据库建表与配置文件
 ├── frontend/ # 地图可视化前端
 ├── README.md # 项目说明文档
 └── requirements.txt # Python 依赖
+```
 
 ## 🚀 快速开始
 1. **克隆仓库**
@@ -58,7 +60,7 @@ pip install -r requirements.txt
 CREATE DATABASE carparkdb;
 CREATE EXTENSION postgis;
 ```
-4、**运行数据获取脚本**
+4. **运行数据获取脚本**
 ```bash
 python backend/lta_carpark_import.py
 ```
@@ -68,10 +70,10 @@ cd frontend
 npm install
 npm run dev
 ```
-##📊 数据来源
+## 📊 数据来源
 LTA DataMall: CarParkAvailability API
 
-##📸 项目截图
+## 📸 项目截图
 <img width="2542" height="1194" alt="54afe1b30c8c2385702c03faa115229e" src="https://github.com/user-attachments/assets/344b415a-7ac4-4064-b426-438de5b21cbc" />
 <img width="2559" height="1187" alt="aa1539babb6b1e7c8939dddeb30bfa6a" src="https://github.com/user-attachments/assets/09268e39-c4e2-43c7-8254-539529fabf57" />
 <img width="2559" height="1190" alt="fdcdbd14364c1d1a32814998d32eaab2" src="https://github.com/user-attachments/assets/833101f1-d1b0-458a-9bdd-cae434f310a7" />
@@ -79,5 +81,5 @@ LTA DataMall: CarParkAvailability API
 <img width="748" height="1010" alt="103e3116527919ebd5a097e8389f5521" src="https://github.com/user-attachments/assets/e7fbcd16-507d-4836-a01f-853ceae15670" />
 <img width="749" height="672" alt="21f3636ffa767c68a2058b917e0a83d9" src="https://github.com/user-attachments/assets/22f5ebb7-c35f-450f-921f-7a455348ccfe" />
 
-##📄 许可证
+## 📄 许可证
 本项目遵循 MIT License。
